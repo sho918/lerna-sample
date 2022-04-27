@@ -1,5 +1,8 @@
 {
   "name": "lerna-sample",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
